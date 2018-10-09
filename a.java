@@ -1,2 +1,2 @@
-import com.java
+import com.java.math
   
